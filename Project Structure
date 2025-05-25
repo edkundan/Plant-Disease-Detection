@@ -1,0 +1,12 @@
+🗂️ Project Structure
+bash
+Copy
+Edit
+├── notebooks/
+│   └── Plant_Disease_Detection.ipynb     # Main Jupyter Notebook
+├── models/
+│   └── plant_disease_classifier.keras    # Trained model file
+├── data/
+│   └── PlantVillage/                     # Dataset placeholder
+├── requirements.txt                      # Python dependencies
+└── README.md                             # Documentation
