@@ -1,7 +1,5 @@
 Project Structure
 
-
-Edit
 ├── notebooks/
 │   └── Plant_Disease_Detection.ipynb     # Main Jupyter Notebook
 ├── models/
