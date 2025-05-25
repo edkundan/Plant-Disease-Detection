@@ -171,14 +171,14 @@ The PlantVillage dataset needs to be downloaded from Kaggle. The notebook contai
 
 ## Project Structure
 ├── notebooks/
-│   └── Plant_Disease_Detection.ipynb  # Main project Jupyter Notebook
+│   └── Plant_Disease_Detection.ipynb     # Main Jupyter Notebook
 ├── models/
-│   └── plant_disease_classifier.keras # Saved trained Keras model
+│   └── plant_disease_classifier.keras    # Trained model file
 ├── data/
-│   └── PlantVillage/                  # Placeholder for the dataset (actual data is downloaded by notebook instructions)
-│       └── ... (subfolders for each plant/disease class)
-├── requirements.txt                   # List of Python dependencies
-└── README.md                          # Project documentation (this file)
+│   └── PlantVillage/                     # Dataset placeholder
+├── requirements.txt                      # Python dependencies
+└── README.md                             # Documentation
+
 
 ## Code Quality
 
