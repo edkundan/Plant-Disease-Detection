@@ -1,7 +1,6 @@
 Project Structure
 
-├── notebooks/
-│   └── Plant_Disease_Detection.ipynb     # Main Jupyter Notebook
+├── Plant_Disease_Detection.ipynb     # Main Jupyter Notebook
 ├── models/
 │   └── plant_disease_classifier.keras    # Trained model file
 ├── data/
