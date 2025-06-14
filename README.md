@@ -1,4 +1,4 @@
-# Plant Disease Detection using Deep Learning
+# Plant Disease Detection 
 
 ## Project Overview
 
@@ -418,14 +418,16 @@ The PlantVillage dataset needs to be downloaded from Kaggle. The notebook contai
     * **Section 2:** Dataset loading (ensure dataset is set up as per instructions above).
     * **Section 3:** Exploratory Data Analysis & Visualizations.
     * **Section 4:** Data Preprocessing for Deep Learning.
-    * **Section 5:** Model Definition & Training. This section will take significant time for training, but is fast if loading a pre-trained model. Ensure GPU runtime is enabled in Colab: `Runtime > Change runtime type > GPU`.
+    * **Section 5:** Model Definition & Training (or **Loading** if you have a saved model). This section will take significant time for training, but is fast if loading a pre-trained model. Ensure GPU runtime is enabled in Colab: `Runtime > Change runtime type > GPU`.
     * **Section 6:** Model Evaluation & Performance Visualization.
     * **Section 7:** Comprehensive Data Visualizations and Storytelling.
 
 ## Project Structure
+
+Aapke project ki file aur folder structure is prakaar hai:
+
 .
-├── notebooks/
-│   └── Plant_Disease_Detection.ipynb  # Main project Jupyter Notebook
+├── Plant_Disease_Detection.ipynb  # Main project Jupyter Notebook
 ├── models/
 │   └── plant_disease_classifier.keras # Saved trained Keras model
 ├── data/
@@ -455,9 +457,3 @@ The code in this repository adheres to the following quality standards:
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
-
-For any questions or collaborations, feel free to reach out:
-
-* **Name:** Kundan Kumar
-* **Email:** edixlike@gmail.com
